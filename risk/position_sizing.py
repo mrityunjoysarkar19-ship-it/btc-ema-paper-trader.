@@ -1,4 +1,4 @@
-from dataclasses import dataclass
+lfrom dataclasses import dataclass
 import math
 @dataclass
 class SizeResult:
